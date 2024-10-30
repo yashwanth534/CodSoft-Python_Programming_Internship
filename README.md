@@ -1,44 +1,74 @@
-# CodSoft-Python_Programming_Internship
+Internship Details
+Position: Python Programming Intern
 
-CodSoft Internship Tasks
-Welcome to the CODSOFT internship repository. Here, you'll find a collection of tasks completed during my internship.
+Intern ID: CS24NY329477
 
-Tasks
+Internship Period: October 25, 2024 - November 25, 2024
+
+Company: CodSoft
+
+Supervisor: Founder (MSME Registered)
+
+Welcome to my CodSoft internship repository! Here, I’ll document the progress and completion of tasks assigned during my virtual internship. This experience is designed to strengthen my Python programming skills and gain hands-on experience through various coding projects.
+
+Internship Tasks Overview
+The following tasks have been completed as part of my Python programming internship:
+
+
 1. Contact Book
+An application to manage contact details.
+
 Features:
 
-Contact Information: Store name, phone number, email, and address for each contact.
-Add Contact: Allow users to add new contacts with their details.
-View Contact List: Display a list of all saved contacts with names and phone numbers.
-Search Contact: Implement a search function to find contacts by name or phone number.
-Update Contact: Enable users to update contact details.
-Delete Contact: Provide an option to delete a contact.
-User Interface: Design a user-friendly interface for easy interaction.
+Contact Information: Stores details like name, phone number, email, and address.
+Add Contact: Adds new contacts with all necessary details.
+View Contact List: Lists all saved contacts with names and phone numbers.
+Search Contact: Allows search by name or phone number.
+Update Contact: Enables modification of contact details.
+Delete Contact: Removes a contact from the list.
+User Interface: Includes a user-friendly interface for seamless interaction.
+
+
 2. Rock-Paper-Scissors Game
+A classic game with Python logic.
+
 Features:
 
-User Input: Prompt the user to choose rock, paper, or scissors.
-Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.
-Game Logic: Determine the winner based on the user's choice and the computer's choice.
-Rock beats scissors, scissors beat paper, and paper beats rock.
-Display Result: Show the user's choice and the computer's choice. Display the result, whether the user wins, loses, or it's a tie.
-Score Tracking (Optional): Keep track of the user's and computer's scores for multiple rounds.
-Play Again: Ask the user if they want to play another round.
-User Interface: Design a user-friendly interface with clear instructions and feedback.
-3. PASSWORD GENERATOR
+User Input: Prompts for user choice among rock, paper, or scissors.
+Computer Selection: Randomly selects rock, paper, or scissors.
+Game Logic: Determines the outcome based on standard game rules.
+Display Result: Shows the choices and the winner for each round.
+Score Tracking (Optional): Keeps track of scores across multiple rounds.
+Play Again Option: Asks if the user would like another round.
+User Interface: Clear instructions for an intuitive play experience.
+
+
+3. Password Generator
+Generates secure passwords based on user preferences.
+
 Features:
 
-User Input: Prompt the user to specify the desired length of the password.
-Generate Password: Use a combination of random characters to generate a password of the specified length.
-Display the Password: Print the generated password on the screen.
-4. CALCULATOR
+User Input: Allows specifying desired password length.
+Generate Password: Uses a mix of characters for password generation.
+Display Password: Shows the generated password to the user.
+
+
+4. Calculator
+Performs basic arithmetic calculations.
+
 Features:
 
-Design a simple calculator with basic arithmetic operations.
-Prompt the user to input two numbers and an operation choice.
-Perform the calculation and display the result.
-5. TO-DO LIST
+Input Handling: Requests two numbers and a chosen operation.
+Calculation: Executes addition, subtraction, multiplication, or division.
+Display Result: Shows the calculation outcome.
+
+
+5. To-Do List
+Organizes tasks in a list format.
+
 Features:
 
-A To-Do List application is a useful project that helps users manage and organize their tasks efficiently.
-This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists.
+Create To-Do Item: Adds tasks with descriptions.
+Update Task: Allows editing of existing tasks.
+Mark Completion: Checks off completed tasks.
+User Interface: Command-line or GUI-based for easy use.
