@@ -1,6 +1,4 @@
-Here's a README file for the Contact Management System code:
 
----
 
 # Contact Management System
 
